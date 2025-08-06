@@ -8,3 +8,6 @@ Urdu: https://www.kaggle.com/datasets/shumailakhan/urdu-sarcastic-tweets-dataset
 
 For fine tuning/pre-train:  
 Arabic : https://github.com/UBC-NLP/palm
+
+RESOURCES  
+https://nlpdataset.ir/
